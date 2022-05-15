@@ -1,6 +1,5 @@
 <h2 align="center"> Hi👋😄 </h2>
 
-<br><br>
 My name is <b>Mostafa</b><br>
 I'm a novice Python developer and I love learning. I'm interested in learning Python web frameworks like FastAPI and Django.
 
