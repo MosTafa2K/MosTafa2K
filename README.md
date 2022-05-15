@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+My name is Mustafa ... I'm a novice Python developer and I love learning. I'm interested in learning Python web frameworks like FastAPI and Django.
 <!--
 **MosTafa2K/MosTafa2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
