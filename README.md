@@ -18,3 +18,5 @@ I'm a novice Python developer and love learning and interested in learning Pytho
 <br>
 <h3><p>I’m currently learning Python📃</p></h3>
 <li> My Email : <a href="mailto:mostafapy.net@gmail.com">mostafapy.net@gmail.com</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosTafa2K)](https://github.com/MosTafa2K/github-readme-stats)
