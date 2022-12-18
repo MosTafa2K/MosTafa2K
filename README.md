@@ -1,8 +1,8 @@
 <h2 align="center"> </h2>
 
  Hi My name is <b>Mostafa</b>👋😄<br>
-I'm a novice Python developer and love learning and interested in learning Python web frameworks like FastAPI and Django.
-
+I'm a novice Python developer and love learning and interested in learning Python web frameworks like **FastAPI** and **Django**.
+You can see and use my projects at here!
 <br><br>
 
 <h1>⚡Tools and Favorites</h1>
