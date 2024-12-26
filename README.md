@@ -16,7 +16,7 @@ You can see and use my projects at here!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
-<h3><p>I’m currently learning Python📃</p></h3>
+<h3><p>I am currently learning a lot of things!📃</p></h3>
 <li> My Email: <a href="mailto:m2kappswindows8.1@gmail.com">m2kappswindows8.1@gmail.com</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosTafa2K)](https://github.com/MosTafa2K/github-readme-stats)
