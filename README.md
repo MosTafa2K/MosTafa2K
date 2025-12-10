@@ -39,7 +39,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats-mu-steel-82.vercel.app/api?username=MosTafa2K&show_icons=true&theme=tokyonight" height="180" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
