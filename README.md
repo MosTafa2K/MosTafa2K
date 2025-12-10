@@ -39,7 +39,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.zcy.dev/api?username=MosTafa2K&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub stats" />
 </p>
 
 ---
